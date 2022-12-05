@@ -1,3 +1,9 @@
- ssh -p <port> user@<ip-address-or-hostname>
-The command uname prints the core operating system name of the computer.
+/*
+Accessing Linux VMs using ssh
+*/
+	ssh -p <port> user@<ip-address-or-hostname>
+/*
+What the command uname does
+*/
+	The command uname prints the core operating system name of the computer.
 
