@@ -1,0 +1,3 @@
+ ssh -p <port> user@<ip-address-or-hostname>
+The command uname prints the core operating system name of the computer.
+
